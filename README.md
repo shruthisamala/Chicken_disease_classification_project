@@ -1,0 +1,2 @@
+# Chicken_disease_classification_project
+Coccidiosis- chicken disease
